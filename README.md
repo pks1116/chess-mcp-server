@@ -1,5 +1,5 @@
 Install this MCP server by adding the following JSON code in your JSON config file 
-'''json
+```json
 {
   "mcpServers": {
     "Chess Server": {
@@ -12,4 +12,4 @@ Install this MCP server by adding the following JSON code in your JSON config fi
     }
   }
 }
-'''
+```
